@@ -1,6 +1,0 @@
-
-baseGray: #D6D6D6
-darkGray: #545454
-darkestGray: #F5F5F5
-darkRed: #6B0908
-
