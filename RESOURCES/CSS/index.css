@@ -18,6 +18,9 @@ body {
 .btn-group .btn-danger {
       background-color: #6B0908;
 }
+.btn1 .btn-danger {
+      background-color: #6B0908;
+}
 .btn-group .btn-success {
       background-color: #0A6847;
 }
@@ -298,4 +301,43 @@ ul.timeline > li:before {
     text-transform: uppercase;
     color: #F5F5F5;
     font-family: "Joti One", serif;
+}
+
+
+
+
+
+.project {
+    min-height: 100vh;
+    background-color: #151515;
+    padding: 50px 0;
+}
+.section-project-title1 {
+    font-family: "Joti One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 52px;
+    color: #F5F5F5;
+    letter-spacing: 1px;
+    margin: 0;
+    position: relative;
+    top: 10px;
+}
+.section-project-title2 {
+    font-family: "Joti One", serif;
+    font-size: 32px;
+    font-weight: 700;
+    color: #F3CA52;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+}
+.project .card-title {
+    text-transform: uppercase;
+    color: #6B0908;
+    font-family: "Joti One", serif;
+}
+.project .card-group {
+    text-align: start;
+    font-size: 12px;
 }
