@@ -344,3 +344,56 @@ ul.timeline > li:before {
     text-align: start;
     font-size: 12px;
 }
+
+
+.contact {
+    min-height: 100vh;
+    background: linear-gradient(180deg, #6B0908, #151515);
+    padding: 50px 0;
+}
+.section-contact-title1 {
+    font-family: "Allura", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 72px;
+    color: #F5F5F5;
+    letter-spacing: 1px;
+    margin: 0;
+    position: relative;
+    top: 40px;
+}
+.section-contact-title2 {
+    font-family: "Joti One", serif;
+    font-size: 32px;
+    font-weight: 700;
+    color: #F3CA52;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+}
+
+
+    .contact {
+        background-color: #f9f9f9;
+        min-height: 50vh;
+        padding: 60px 0;
+    }
+    .social-icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #ffffff10;
+        color: white;
+        font-size: 1.5rem;
+        width: 48px;
+        height: 48px;
+        border-radius: 50%;
+        transition: all 0.3s ease-in-out;
+        text-decoration: none;
+    }
+
+    .social-icon:hover {
+        background-color: #ffffff20;
+        transform: scale(1.1);
+        color: #f0f0f0;
+    }
