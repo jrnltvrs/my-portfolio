@@ -122,6 +122,9 @@ p, small, span {
     }
 }
 
+.nav-link.active {
+  color: #ffcc00 !important; 
+}
 
 
 .aboutMe {
