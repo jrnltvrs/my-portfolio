@@ -339,6 +339,14 @@
             new bootstrap.Collapse(navbar).hide();
             }
         });
+
+        // Change active class when link is clicked
+        document.querySelectorAll('.navbar-nav .nav-link').forEach(link => {
+            link.addEventListener('click', function () {
+            document.querySelectorAll('.navbar-nav .nav-link').forEach(nav => nav.classList.remove('active'));
+            this.classList.add('active');
+            });
+        });
     </script>
 
         
