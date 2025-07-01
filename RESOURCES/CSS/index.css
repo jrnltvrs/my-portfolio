@@ -76,7 +76,7 @@ p, small, span {
     align-items: center;
     justify-content: center;
     background-color: #DDDDDD;
-    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200"><text x="40" y="40" font-size="40" fill="%236B0908" font-family="Noto Sans Tagalog">ᜀᜃᜓ ᜋᜓᜈ</text></svg>');
+    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200"><text x="10" y="50" font-size="40" fill="%236B0908" font-family="Noto Sans Tagalog">ᜀᜃᜓ ᜋᜓᜈ</text></svg>');
     background-size: 80px 77px;
     background-repeat: repeat;
 }
@@ -334,7 +334,7 @@ ul.timeline > li:before {
 }
 .project .card-title {
     text-transform: uppercase;
-    color: #6B0908;
+    color: #F3CA52;
     font-family: "Joti One", serif;
 }
 .project .card-group {
